@@ -1,4 +1,30 @@
-.name{
-    font-size: 100px;
-    font-weight: 900;
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.name {
+    color: orange;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 70%;
+    padding-left: 80px;
+}
+
+.link-buttion {
+    text-decoration: none;
 }
