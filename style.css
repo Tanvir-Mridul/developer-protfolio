@@ -5,7 +5,7 @@ body {
 }
 
 .name {
-    color: orange;
+    color: tomato;
     font-size: 60px;
     font-weight: bolder;
 
@@ -87,13 +87,14 @@ h2 {
 }
 
 #full-stack {
-    border-left: 7px solid tomato;
+    border-left: 7px solid orange;
 }
 
 #baby-web {
-    border-left: 7px solid orange;
+    border-left: 7px solid tomato;
 }
 
 footer p {
     text-align: center;
+
 }
