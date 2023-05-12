@@ -39,13 +39,22 @@ section {
 
 }
 
-#des-1 {
+.des-1 {
     text-align: justify;
+    padding-right: 10%;
+
 }
 
 .top-banar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
