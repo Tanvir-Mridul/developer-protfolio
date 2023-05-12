@@ -1,5 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+
 }
 
 .name {
@@ -23,14 +25,27 @@ section {
 }
 
 .half-width img {
-    width: 70%;
+    width: 60%;
     padding-left: 80px;
 }
 
-.link-buttion {
+.button {
     text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-weight: 900;
+    color: white;
+
 }
 
 #des-1 {
     text-align: justify;
+}
+
+.top-banar {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+
 }
